@@ -8,6 +8,7 @@ Clone this repo with:
 
 ```bash
 git clone https://github.com/sunirvelvet/Object-Finder.git
+```
 
 ## Step 2:
 Clone FastSAM repo: [Follow this Tutorial Video From Local Installation]  (https://youtu.be/yyqnFucIAu0?si=g04IJLuCwaO21IE8) 
@@ -18,7 +19,7 @@ Replace ObjectFinder/FastSAM/segpredict.py with ObjectFinder/segpredict.py
 ## Step 4: 
 Go to ObjectFinder/FastSAM/fastsam/prompt.py, and replace the code with the following:
 
-```
+``` python
 import os
 import sys
 import cv2
