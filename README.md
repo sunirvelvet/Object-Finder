@@ -17,6 +17,7 @@ Clone FastSAM repo: [Follow this Tutorial Video From Local Installation](https
 
 ## Step 3:
 Replace ObjectFinder/FastSAM/segpredict.py with ObjectFinder/segpredict.py
+It's modified for text prompt.
 
 ## Step 4: 
 Go to ObjectFinder/FastSAM/fastsam/prompt.py, and replace the code with the following:
