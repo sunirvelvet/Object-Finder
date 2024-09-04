@@ -13,6 +13,8 @@ git clone https://github.com/sunirvelvet/Object-Finder.git
 ## Step 2:
 Clone FastSAM repo: [Follow this Tutorial Video From Local Installation](https://youtu.be/yyqnFucIAu0?si=g04IJLuCwaO21IE8) 
 
+[Link to FastSAM repo](https://github.com/CASIA-IVA-Lab/FastSAM)
+
 ## Step 3:
 Replace ObjectFinder/FastSAM/segpredict.py with ObjectFinder/segpredict.py
 
